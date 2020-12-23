@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>HOWFXX.jpeg</filename>
+	<path>/Users/rishavk/Desktop/dataset/Dataset/HOWFXX.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>119</xmin>
+			<ymin>113</ymin>
+			<xmax>528</xmax>
+			<ymax>368</ymax>
+		</bndbox>
+	</object>
+</annotation>

@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>3C1QFD.jpeg</filename>
+	<path>/Users/rishavk/Desktop/dataset/Dataset/3C1QFD.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>0</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>117</xmin>
+			<ymin>110</ymin>
+			<xmax>508</xmax>
+			<ymax>373</ymax>
+		</bndbox>
+	</object>
+</annotation>

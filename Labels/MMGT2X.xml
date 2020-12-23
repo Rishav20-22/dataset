@@ -1,0 +1,26 @@
+<annotation>
+	<folder>Dataset</folder>
+	<filename>MMGT2X.jpeg</filename>
+	<path>/Users/rishavk/Desktop/dataset/Dataset/MMGT2X.jpeg</path>
+	<source>
+		<database>Unknown</database>
+	</source>
+	<size>
+		<width>558</width>
+		<height>418</height>
+		<depth>3</depth>
+	</size>
+	<segmented>0</segmented>
+	<object>
+		<name>robot</name>
+		<pose>Unspecified</pose>
+		<truncated>1</truncated>
+		<difficult>0</difficult>
+		<bndbox>
+			<xmin>164</xmin>
+			<ymin>97</ymin>
+			<xmax>558</xmax>
+			<ymax>273</ymax>
+		</bndbox>
+	</object>
+</annotation>
