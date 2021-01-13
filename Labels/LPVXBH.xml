@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>LPVXBH.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/LPVXBH.jpeg</path>
+	<folder>Images</folder>
+	<filename>LPVXBH.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/LPVXBH.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>125</xmin>
-			<ymin>109</ymin>
-			<xmax>505</xmax>
-			<ymax>360</ymax>
+			<xmin>150</xmin>
+			<ymin>123</ymin>
+			<xmax>504</xmax>
+			<ymax>351</ymax>
 		</bndbox>
 	</object>
 </annotation>

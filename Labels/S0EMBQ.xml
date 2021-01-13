@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>S0EMBQ.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/S0EMBQ.jpeg</path>
+	<folder>Images</folder>
+	<filename>S0EMBQ.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/S0EMBQ.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>83</xmin>
-			<ymin>120</ymin>
-			<xmax>451</xmax>
-			<ymax>344</ymax>
+			<xmin>86</xmin>
+			<ymin>127</ymin>
+			<xmax>441</xmax>
+			<ymax>354</ymax>
 		</bndbox>
 	</object>
 </annotation>

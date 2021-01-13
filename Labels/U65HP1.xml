@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>U65HP1.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/U65HP1.jpeg</path>
+	<folder>Images</folder>
+	<filename>U65HP1.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/U65HP1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>101</xmin>
-			<ymin>105</ymin>
-			<xmax>473</xmax>
-			<ymax>375</ymax>
+			<xmin>103</xmin>
+			<ymin>118</ymin>
+			<xmax>491</xmax>
+			<ymax>386</ymax>
 		</bndbox>
 	</object>
 </annotation>

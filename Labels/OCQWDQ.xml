@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>OCQWDQ.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/OCQWDQ.jpeg</path>
+	<folder>Images</folder>
+	<filename>OCQWDQ.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/OCQWDQ.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>118</xmin>
-			<ymin>48</ymin>
+			<xmin>135</xmin>
+			<ymin>61</ymin>
 			<xmax>558</xmax>
-			<ymax>388</ymax>
+			<ymax>391</ymax>
 		</bndbox>
 	</object>
 </annotation>

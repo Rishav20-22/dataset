@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>8KWDLK.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/8KWDLK.jpeg</path>
+	<folder>Images</folder>
+	<filename>8KWDLK.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/8KWDLK.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,8 +17,8 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>91</xmin>
-			<ymin>110</ymin>
+			<xmin>83</xmin>
+			<ymin>122</ymin>
 			<xmax>558</xmax>
 			<ymax>418</ymax>
 		</bndbox>

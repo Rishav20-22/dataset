@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>IXUI3J.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/IXUI3J.jpeg</path>
+	<folder>Images</folder>
+	<filename>IXUI3J.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/IXUI3J.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>190</xmin>
-			<ymin>7</ymin>
-			<xmax>471</xmax>
-			<ymax>258</ymax>
+			<xmin>206</xmin>
+			<ymin>9</ymin>
+			<xmax>466</xmax>
+			<ymax>227</ymax>
 		</bndbox>
 	</object>
 </annotation>

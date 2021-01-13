@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>LPNS1V.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/LPNS1V.jpeg</path>
+	<folder>Images</folder>
+	<filename>LPNS1V.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/LPNS1V.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>102</xmin>
-			<ymin>41</ymin>
+			<xmin>98</xmin>
+			<ymin>47</ymin>
 			<xmax>558</xmax>
-			<ymax>357</ymax>
+			<ymax>326</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>64M0RA.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/64M0RA.jpeg</path>
+	<folder>Images</folder>
+	<filename>64M0RA.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/64M0RA.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,8 +17,8 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>92</xmin>
-			<ymin>108</ymin>
+			<xmin>134</xmin>
+			<ymin>107</ymin>
 			<xmax>462</xmax>
 			<ymax>333</ymax>
 		</bndbox>

@@ -1,7 +1,7 @@
-<annotation verified="yes">
-	<folder>Dataset</folder>
-	<filename>0LVABY.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/0LVABY.jpeg</path>
+<annotation>
+	<folder>Images</folder>
+	<filename>0LVABY.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/0LVABY.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>97</xmin>
-			<ymin>134</ymin>
-			<xmax>491</xmax>
-			<ymax>395</ymax>
+			<xmin>113</xmin>
+			<ymin>136</ymin>
+			<xmax>496</xmax>
+			<ymax>398</ymax>
 		</bndbox>
 	</object>
 </annotation>

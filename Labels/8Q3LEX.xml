@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>8Q3LEX.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/8Q3LEX.jpeg</path>
+	<folder>Images</folder>
+	<filename>8Q3LEX.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/8Q3LEX.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>99</xmin>
+			<xmin>106</xmin>
 			<ymin>63</ymin>
-			<xmax>421</xmax>
-			<ymax>334</ymax>
+			<xmax>395</xmax>
+			<ymax>332</ymax>
 		</bndbox>
 	</object>
 </annotation>

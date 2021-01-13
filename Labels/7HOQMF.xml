@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>7HOQMF.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/7HOQMF.jpeg</path>
+	<folder>Images</folder>
+	<filename>7HOQMF.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/7HOQMF.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>68</xmin>
-			<ymin>10</ymin>
-			<xmax>498</xmax>
+			<xmin>101</xmin>
+			<ymin>15</ymin>
+			<xmax>488</xmax>
 			<ymax>418</ymax>
 		</bndbox>
 	</object>

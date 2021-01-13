@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>HOWFXX.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/HOWFXX.jpeg</path>
+	<folder>Images</folder>
+	<filename>HOWFXX.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/HOWFXX.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>119</xmin>
+			<xmin>138</xmin>
 			<ymin>113</ymin>
-			<xmax>528</xmax>
-			<ymax>368</ymax>
+			<xmax>535</xmax>
+			<ymax>361</ymax>
 		</bndbox>
 	</object>
 </annotation>

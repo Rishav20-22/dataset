@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>3Z92NA.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/3Z92NA.jpeg</path>
+	<folder>Images</folder>
+	<filename>3Z92NA.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/3Z92NA.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>156</xmin>
-			<ymin>101</ymin>
-			<xmax>465</xmax>
+			<xmin>166</xmin>
+			<ymin>108</ymin>
+			<xmax>461</xmax>
 			<ymax>364</ymax>
 		</bndbox>
 	</object>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>HP3GE4.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/HP3GE4.jpeg</path>
+	<folder>Images</folder>
+	<filename>HP3GE4.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/HP3GE4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,8 +17,8 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>201</xmin>
-			<ymin>97</ymin>
+			<xmin>211</xmin>
+			<ymin>91</ymin>
 			<xmax>558</xmax>
 			<ymax>418</ymax>
 		</bndbox>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>IHFXHN.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/IHFXHN.jpeg</path>
+	<folder>Images</folder>
+	<filename>IHFXHN.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/IHFXHN.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>111</xmin>
-			<ymin>157</ymin>
-			<xmax>464</xmax>
-			<ymax>297</ymax>
+			<xmin>135</xmin>
+			<ymin>165</ymin>
+			<xmax>439</xmax>
+			<ymax>300</ymax>
 		</bndbox>
 	</object>
 </annotation>

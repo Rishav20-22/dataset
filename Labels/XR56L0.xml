@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>XR56L0.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/XR56L0.jpeg</path>
+	<folder>Images</folder>
+	<filename>XR56L0.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/XR56L0.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>134</xmin>
-			<ymin>97</ymin>
-			<xmax>496</xmax>
-			<ymax>357</ymax>
+			<xmin>133</xmin>
+			<ymin>108</ymin>
+			<xmax>468</xmax>
+			<ymax>358</ymax>
 		</bndbox>
 	</object>
 </annotation>

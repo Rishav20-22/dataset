@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>3W73TL.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/3W73TL.jpeg</path>
+	<folder>Images</folder>
+	<filename>3W73TL.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/3W73TL.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>113</xmin>
-			<ymin>102</ymin>
-			<xmax>323</xmax>
-			<ymax>256</ymax>
+			<ymin>97</ymin>
+			<xmax>324</xmax>
+			<ymax>262</ymax>
 		</bndbox>
 	</object>
 </annotation>

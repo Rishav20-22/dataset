@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>ATTWE2.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/ATTWE2.jpeg</path>
+	<folder>Images</folder>
+	<filename>ATTWE2.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/ATTWE2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>96</xmin>
-			<ymin>4</ymin>
-			<xmax>433</xmax>
+			<xmin>126</xmin>
+			<ymin>6</ymin>
+			<xmax>424</xmax>
 			<ymax>236</ymax>
 		</bndbox>
 	</object>

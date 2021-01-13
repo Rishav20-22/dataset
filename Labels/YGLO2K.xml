@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>YGLO2K.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/YGLO2K.jpeg</path>
+	<folder>Images</folder>
+	<filename>YGLO2K.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/YGLO2K.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>84</xmin>
-			<ymin>56</ymin>
-			<xmax>364</xmax>
-			<ymax>343</ymax>
+			<xmin>86</xmin>
+			<ymin>59</ymin>
+			<xmax>377</xmax>
+			<ymax>333</ymax>
 		</bndbox>
 	</object>
 </annotation>

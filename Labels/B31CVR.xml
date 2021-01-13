@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>B31CVR.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/B31CVR.jpeg</path>
+	<folder>Images</folder>
+	<filename>B31CVR.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/B31CVR.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>167</xmin>
-			<ymin>104</ymin>
-			<xmax>546</xmax>
-			<ymax>375</ymax>
+			<xmin>176</xmin>
+			<ymin>105</ymin>
+			<xmax>544</xmax>
+			<ymax>371</ymax>
 		</bndbox>
 	</object>
 </annotation>

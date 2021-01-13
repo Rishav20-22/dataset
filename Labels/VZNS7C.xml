@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>VZNS7C.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/VZNS7C.jpeg</path>
+	<folder>Images</folder>
+	<filename>VZNS7C.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/VZNS7C.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,9 +17,9 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>120</xmin>
-			<ymin>56</ymin>
-			<xmax>400</xmax>
+			<xmin>107</xmin>
+			<ymin>57</ymin>
+			<xmax>403</xmax>
 			<ymax>319</ymax>
 		</bndbox>
 	</object>

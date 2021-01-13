@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>0425GZ.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/0425GZ.jpeg</path>
+	<folder>Images</folder>
+	<filename>0425GZ.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/0425GZ.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>161</xmin>
-			<ymin>84</ymin>
-			<xmax>473</xmax>
-			<ymax>273</ymax>
+			<xmin>165</xmin>
+			<ymin>92</ymin>
+			<xmax>474</xmax>
+			<ymax>295</ymax>
 		</bndbox>
 	</object>
 </annotation>

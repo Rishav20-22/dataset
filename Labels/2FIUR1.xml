@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>2FIUR1.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/2FIUR1.jpeg</path>
+	<folder>Images</folder>
+	<filename>2FIUR1.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/2FIUR1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>137</xmin>
-			<ymin>92</ymin>
-			<xmax>505</xmax>
-			<ymax>338</ymax>
+			<xmin>143</xmin>
+			<ymin>94</ymin>
+			<xmax>499</xmax>
+			<ymax>339</ymax>
 		</bndbox>
 	</object>
 </annotation>

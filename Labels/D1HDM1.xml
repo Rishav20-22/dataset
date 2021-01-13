@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>D1HDM1.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/D1HDM1.jpeg</path>
+	<folder>Images</folder>
+	<filename>D1HDM1.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/D1HDM1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>65</xmin>
-			<ymin>32</ymin>
+			<xmin>69</xmin>
+			<ymin>58</ymin>
 			<xmax>558</xmax>
-			<ymax>356</ymax>
+			<ymax>358</ymax>
 		</bndbox>
 	</object>
 </annotation>

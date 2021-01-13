@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>ZYM24Q.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/ZYM24Q.jpeg</path>
+	<folder>Images</folder>
+	<filename>ZYM24Q.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/ZYM24Q.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,8 +17,8 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>75</xmin>
-			<ymin>82</ymin>
+			<xmin>79</xmin>
+			<ymin>92</ymin>
 			<xmax>558</xmax>
 			<ymax>418</ymax>
 		</bndbox>

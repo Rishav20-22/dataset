@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>SFCGG1.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/SFCGG1.jpeg</path>
+	<folder>Images</folder>
+	<filename>SFCGG1.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/SFCGG1.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>123</xmin>
-			<ymin>80</ymin>
-			<xmax>499</xmax>
-			<ymax>327</ymax>
+			<xmin>124</xmin>
+			<ymin>83</ymin>
+			<xmax>502</xmax>
+			<ymax>333</ymax>
 		</bndbox>
 	</object>
 </annotation>

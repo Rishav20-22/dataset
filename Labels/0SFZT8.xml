@@ -1,7 +1,7 @@
-<annotation verified="yes">
-	<folder>Dataset</folder>
-	<filename>0SFZT8.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/0SFZT8.jpeg</path>
+<annotation>
+	<folder>Images</folder>
+	<filename>0SFZT8.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/0SFZT8.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>87</xmin>
-			<ymin>60</ymin>
+			<xmin>93</xmin>
+			<ymin>63</ymin>
 			<xmax>558</xmax>
-			<ymax>395</ymax>
+			<ymax>385</ymax>
 		</bndbox>
 	</object>
 </annotation>

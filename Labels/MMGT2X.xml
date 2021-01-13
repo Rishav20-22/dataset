@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>MMGT2X.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/MMGT2X.jpeg</path>
+	<folder>Images</folder>
+	<filename>MMGT2X.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/MMGT2X.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>164</xmin>
-			<ymin>97</ymin>
+			<xmin>175</xmin>
+			<ymin>102</ymin>
 			<xmax>558</xmax>
-			<ymax>273</ymax>
+			<ymax>289</ymax>
 		</bndbox>
 	</object>
 </annotation>

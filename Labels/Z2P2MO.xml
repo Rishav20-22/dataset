@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>Z2P2MO.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/Z2P2MO.jpeg</path>
+	<folder>Images</folder>
+	<filename>Z2P2MO.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/Z2P2MO.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>114</xmin>
-			<ymin>2</ymin>
-			<xmax>502</xmax>
-			<ymax>418</ymax>
+			<xmin>107</xmin>
+			<ymin>1</ymin>
+			<xmax>492</xmax>
+			<ymax>407</ymax>
 		</bndbox>
 	</object>
 </annotation>

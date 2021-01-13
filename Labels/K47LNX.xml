@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>K47LNX.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/K47LNX.jpeg</path>
+	<folder>Images</folder>
+	<filename>K47LNX.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/K47LNX.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>111</xmin>
-			<ymin>124</ymin>
-			<xmax>513</xmax>
-			<ymax>400</ymax>
+			<xmin>95</xmin>
+			<ymin>129</ymin>
+			<xmax>515</xmax>
+			<ymax>397</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>2RBBG2.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/2RBBG2.jpeg</path>
+	<folder>Images</folder>
+	<filename>2RBBG2.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/2RBBG2.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -18,9 +18,9 @@
 		<difficult>0</difficult>
 		<bndbox>
 			<xmin>101</xmin>
-			<ymin>115</ymin>
-			<xmax>486</xmax>
-			<ymax>386</ymax>
+			<ymin>114</ymin>
+			<xmax>485</xmax>
+			<ymax>385</ymax>
 		</bndbox>
 	</object>
 </annotation>

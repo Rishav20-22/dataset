@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>SWLJK3.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/SWLJK3.jpeg</path>
+	<folder>Images</folder>
+	<filename>SWLJK3.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/SWLJK3.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>135</xmin>
-			<ymin>94</ymin>
-			<xmax>506</xmax>
-			<ymax>352</ymax>
+			<xmin>133</xmin>
+			<ymin>112</ymin>
+			<xmax>501</xmax>
+			<ymax>339</ymax>
 		</bndbox>
 	</object>
 </annotation>

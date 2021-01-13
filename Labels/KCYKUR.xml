@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>KCYKUR.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/KCYKUR.jpeg</path>
+	<folder>Images</folder>
+	<filename>KCYKUR.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/KCYKUR.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>126</xmin>
-			<ymin>98</ymin>
-			<xmax>371</xmax>
-			<ymax>287</ymax>
+			<xmin>131</xmin>
+			<ymin>102</ymin>
+			<xmax>357</xmax>
+			<ymax>281</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>QN8O32.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/QN8O32.jpeg</path>
+	<folder>Images</folder>
+	<filename>QN8O32.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/QN8O32.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>1</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>46</xmin>
-			<ymin>37</ymin>
+			<xmin>58</xmin>
+			<ymin>32</ymin>
 			<xmax>558</xmax>
-			<ymax>298</ymax>
+			<ymax>294</ymax>
 		</bndbox>
 	</object>
 </annotation>

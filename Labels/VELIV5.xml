@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>VELIV5.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/VELIV5.jpeg</path>
+	<folder>Images</folder>
+	<filename>VELIV5.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/VELIV5.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>201</xmin>
+			<xmin>190</xmin>
 			<ymin>79</ymin>
-			<xmax>523</xmax>
-			<ymax>359</ymax>
+			<xmax>527</xmax>
+			<ymax>366</ymax>
 		</bndbox>
 	</object>
 </annotation>

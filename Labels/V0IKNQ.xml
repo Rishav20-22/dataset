@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>V0IKNQ.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/V0IKNQ.jpeg</path>
+	<folder>Images</folder>
+	<filename>V0IKNQ.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/V0IKNQ.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>111</xmin>
-			<ymin>9</ymin>
-			<xmax>397</xmax>
-			<ymax>251</ymax>
+			<xmin>120</xmin>
+			<ymin>8</ymin>
+			<xmax>401</xmax>
+			<ymax>241</ymax>
 		</bndbox>
 	</object>
 </annotation>

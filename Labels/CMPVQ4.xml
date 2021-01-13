@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>CMPVQ4.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/CMPVQ4.jpeg</path>
+	<folder>Images</folder>
+	<filename>CMPVQ4.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/CMPVQ4.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>78</xmin>
+			<xmin>92</xmin>
 			<ymin>28</ymin>
-			<xmax>381</xmax>
-			<ymax>279</ymax>
+			<xmax>384</xmax>
+			<ymax>275</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>QQZO48.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/QQZO48.jpeg</path>
+	<folder>Images</folder>
+	<filename>QQZO48.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/QQZO48.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>103</xmin>
-			<ymin>102</ymin>
-			<xmax>354</xmax>
-			<ymax>280</ymax>
+			<xmin>109</xmin>
+			<ymin>97</ymin>
+			<xmax>340</xmax>
+			<ymax>274</ymax>
 		</bndbox>
 	</object>
 </annotation>

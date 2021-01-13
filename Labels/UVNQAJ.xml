@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>UVNQAJ.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/UVNQAJ.jpeg</path>
+	<folder>Images</folder>
+	<filename>UVNQAJ.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/UVNQAJ.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>204</xmin>
-			<ymin>92</ymin>
-			<xmax>556</xmax>
-			<ymax>347</ymax>
+			<xmin>202</xmin>
+			<ymin>108</ymin>
+			<xmax>554</xmax>
+			<ymax>354</ymax>
 		</bndbox>
 	</object>
 </annotation>

@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>3C1QFD.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/3C1QFD.jpeg</path>
+	<folder>Images</folder>
+	<filename>3C1QFD.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/3C1QFD.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>117</xmin>
-			<ymin>110</ymin>
-			<xmax>508</xmax>
-			<ymax>373</ymax>
+			<xmin>126</xmin>
+			<ymin>103</ymin>
+			<xmax>501</xmax>
+			<ymax>368</ymax>
 		</bndbox>
 	</object>
 </annotation>

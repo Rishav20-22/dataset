@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>NQBQHQ.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/NQBQHQ.jpeg</path>
+	<folder>Images</folder>
+	<filename>NQBQHQ.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/NQBQHQ.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -14,13 +14,13 @@
 	<object>
 		<name>robot</name>
 		<pose>Unspecified</pose>
-		<truncated>1</truncated>
+		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>91</xmin>
+			<xmin>101</xmin>
 			<ymin>73</ymin>
-			<xmax>558</xmax>
-			<ymax>369</ymax>
+			<xmax>547</xmax>
+			<ymax>361</ymax>
 		</bndbox>
 	</object>
 </annotation>

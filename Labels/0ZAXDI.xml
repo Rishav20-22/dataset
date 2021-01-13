@@ -1,7 +1,7 @@
 <annotation>
-	<folder>Dataset</folder>
-	<filename>0ZAXDI.jpeg</filename>
-	<path>/Users/rishavk/Desktop/dataset/Dataset/0ZAXDI.jpeg</path>
+	<folder>Images</folder>
+	<filename>0ZAXDI.jpg</filename>
+	<path>/home/rishav/dataset/Dataset-ev3-tracking/Images/0ZAXDI.jpg</path>
 	<source>
 		<database>Unknown</database>
 	</source>
@@ -17,10 +17,10 @@
 		<truncated>0</truncated>
 		<difficult>0</difficult>
 		<bndbox>
-			<xmin>169</xmin>
-			<ymin>101</ymin>
-			<xmax>514</xmax>
-			<ymax>326</ymax>
+			<xmin>172</xmin>
+			<ymin>96</ymin>
+			<xmax>536</xmax>
+			<ymax>331</ymax>
 		</bndbox>
 	</object>
 </annotation>
